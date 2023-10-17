@@ -1,0 +1,16 @@
+{
+"app_title":"اسلامى",
+"quran":"القران",
+"hadeth":"الحديث",
+"sebha":"سبحه",
+"radio":"اذاعه",
+"sura_name":"اسم السوره",
+  "sura_number": "عدد السوره",
+  "settinng": "الاعدادات",
+  "language": "اللغه",
+  "english": "انجليزى",
+  "arabic": "عربي",
+  "theme": "سمة",
+  "dark": "ليلي",
+  "light": "فاتح"
+}
